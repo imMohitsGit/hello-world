@@ -1,2 +1,2 @@
 # hello-world
-this is my learning curve on github.
+I am trying to create some changes in the readme.md file. Hope it works.
